@@ -1,1 +1,2 @@
-Transformers==4.47.1
+transformers==4.47.1
+python-dotenv==1.1.1
