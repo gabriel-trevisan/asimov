@@ -1,2 +1,4 @@
 transformers==4.47.1
 python-dotenv==1.1.1
+sentencepiece==0.2.1
+protobuf==6.32.0
